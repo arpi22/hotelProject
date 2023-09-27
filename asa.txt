@@ -1,0 +1,7 @@
+Booked{ customerUser=CustomerUser@593634ad, room=Room ID: 1463801669, Type: DELUXE Description: minibar, bathtub, king-size bed, sitting areaPrice per day: 55.0startDate=2023-09-27, endDate=2023-09-27, price = 71.5dollars}
+Booked{ customerUser=CustomerUser@593634ad, room=Room ID: 355629945, Type: DELUXE Description: minibar, bathtub, king-size bed, sitting areaPrice per day: 55.0startDate=2023-09-27, endDate=2023-09-27, price = 71.5dollars}
+Booked{ customerUser=CustomerUser@7e0b37bc, room=Room ID: 1327763628, Type: DELUXE Description: minibar, bathtub, king-size bed, sitting areaPrice per day: 55.0startDate=2023-09-27, endDate=2023-09-27, price = 71.5dollars}
+Booked{ customerUser=CustomerUser@7e0b37bc, room=Room ID: 1567581361, Type: DOUBLE Description: double bed, bathroom, TV, closetPrice per day: 35.0startDate=2023-09-27, endDate=2023-09-27, price = 45.5dollars}
+Booked{ customerUser=CustomerUser@7e0b37bc, room=Room ID: 1915503092, Type: DELUXE Description: minibar, bathtub, king-size bed, sitting areaPrice per day: 55.0startDate=2023-09-27, endDate=2023-09-27, price = 71.5dollars}
+Booked{ customerUser=CustomerUser@7e0b37bc, room=Room ID: 849460928, Type: DOUBLE Description: double bed, bathroom, TV, closetPrice per day: 35.0startDate=2023-09-27, endDate=2023-09-27, price = 45.5dollars}
+Booked{ customerUser=CustomerUser@7e0b37bc, room=Room ID: 580024961, Type: DOUBLE Description: double bed, bathroom, TV, closetPrice per day: 35.0startDate=2023-09-27, endDate=2023-09-27, price = 45.5dollars}
